@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a ![LOGO](logo.png)>
+  <a ![LOGO](aim.png)>
        <img src="Assets/Player/Textures/aim.png" alt="Logo" width="80" height="80">
   </a>
 
