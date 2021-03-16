@@ -10,7 +10,7 @@
     A unity game where an employee causes havoc in the office.
     <br />
     <br />
-    <a href="https://shafinmohammad.github.io/Arnolds-Office/">Play Game</a>
+    <a href="https://mshafin.github.io/Arnolds-Office/">Play Game</a>
   </p>
 </p>
 
